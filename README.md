@@ -1,5 +1,7 @@
 # Language Course Front-End
 
+The development of this hobby application is currently in progress.
+
 This is a front-end project for a language school application, built using **Angular** and **TailwindCSS**.
 
 ## 🚀 Technologies Used
