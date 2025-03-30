@@ -1,0 +1,280 @@
+{
+    "home": {
+        "choose-your-language": "Válassza ki a nyelvet",
+        "language-school-in-number": "A nyelviskola számokban",
+        "llatest-news": "Friss hírek",
+        "language-school": "Nyelviskola",
+        "work-with-us": "Dolgozz , tanulj , fejlődj velünk.",
+        "welcome-to-our": "Üdvözlünk nyelviskolánkban, ahol a kommunikáció az önbizalommal kezdődik. Akár az angolodat, németedet vagy franciádat szeretnéd fejleszteni, interaktív és lebilincselő kurzusainkat a te szintedhez igazítjuk. Tapasztalt tanáraink minden lépésnél támogatnak utadon. Csatlakozz hozzánk még ma, és nyiss új lehetőségeket a nyelvtanuláson keresztül!",
+        "our-happy-students": "Elégedett diákjaink",
+        "featured-instructors": "Kiemelt oktatóink"
+    },
+    "image-slider": {
+        "sign-up-more": "Regisztrálj most!",
+        "imageSliderItems": {
+            "caption": {
+                "1": "Tanítás – A mai tanulókból\nholnap vezetőket formálunk",
+                "2": "Minden diák számít",
+                "3": "A gyermek az első.",
+                "4": "Minden diák számít"
+            }
+        }
+    },
+    "newsletter": {
+        "subscribe-to-our-newsletter": "Iratkozz fel hírlevelünkre!",
+        "subscribe": "Feliratkozás"
+    },
+    "form": {
+        "this-input-field-required": "Ez a mező kötelező",
+        "invalid-email-adress": "Érvénytelen e-mail-cím",
+        "success-msg": "Az üzenetedet sikeresen elküldtük.",
+        "error": {
+            "required": "Ez a mező kötelező",
+            "invalid-phone": "Érvénytelen telefonszám",
+            "invalid-email": "Érvénytelen e-mail-cím"
+        },
+        "placeholder": {
+            "name": "Név",
+            "phone": "Telefonszám",
+            "email": "E-mail"
+        },
+        "send-message": "Üzenet küldése",
+        "success-message": "Üzeneted sikeresen elküldve"
+    },
+    "our-events": {
+        "events-calendar": "Eseménynaptár",
+        "latest-news": "Friss események",
+        "upcoming-courses": "Közelgő tanfolyamok",
+        "no-upcoming-courses": "Nincs közelgő tanfolyam",
+        "event": {
+            "date": {
+                "1": "Március 6",
+                "2": "Március 15",
+                "3": "Március 27"
+            },
+            "title": {
+                "1": "Angol utazáshoz",
+                "2": "Beszélj magabiztosan",
+                "3": "Mindennapi angol"
+            },
+            "period": {
+                "1": "2025. március 6.",
+                "2": "2025. március 15.",
+                "3": "2025. március 27."
+            }
+        },
+        "matchedEvent": {
+            "description": {
+                "1": "Bevezetés az agilis alapelvekbe és keretrendszerekbe.",
+                "2": "Fedezd fel a felhasználói élménytervezés alapjait.",
+                "3": "Tekintsd meg az új funkciókat működés közben."
+            }
+        }
+    },
+    "footer": {
+        "about-school": "A nyelviskoláról",
+        "about-us": "Rólunk",
+        "our-staff": "Tanáraink",
+        "our-partners": "Partnereink",
+        "careers": "Karrier",
+        "programmes": "Programok",
+        "long-term-programmes": "Hosszú távú programok",
+        "intensive-programmes": "Intenzív programok",
+        "specialized-programme": "Speciális program",
+        "language-trainings": "Nyelvi képzések",
+        "contact-info": "Kapcsolat",
+        "email": "E-mail: exampleschool.com",
+        "phone": "Hívjon minket: 1-800-123-1234",
+        "address": "Brooklyn, NY 10036, Egyesült Államok",
+        "bottom-bar": {
+            "copyright": "lali1998 © 2025 / Minden jog fenntartva",
+            "courses": "Tanfolyamok",
+            "testimonials": "Vélemények",
+            "online-application": "Online jelentkezés"
+        },
+        "description": "Lépj szintet a nyelvtanulásban! Kurzusaink gyakorlatorientáltak, és valódi fejlődést hoznak. Csatlakozz még ma!"
+    },
+    "find-course": {
+        "school-news-title": "Iskolai hírek",
+        "school-news-text": "Örömmel jelentjük be, hogy ebben a félévben számos új nyelvtanfolyam és szabadidős program várja diákjainkat! Csatlakozhatsz beszélgető klubokhoz, részt vehetsz nyelvi workshopokon, és kulturális esteken is jelen lehetsz.",
+        "opening-hours-title": "Nyitvatartás",
+        "weekdays": "Hétfő – Péntek",
+        "weekdays-hours": "8:00 – 17:00",
+        "saturday": "Szombat",
+        "saturday-hours": "9:30 – 17:30",
+        "sunday": "Vasárnap",
+        "sunday-hours": "9:30 – 15:00",
+        "find-your-course": "Találd meg a tanfolyamod"
+    },
+    "common": {
+        "read-more": "Bővebben",
+        "learn-mode": "Tudj meg többet",
+        "language": {
+            "english": "Angol",
+            "german": "Német",
+            "french": "Francia"
+        }
+    },
+    "card": {
+        "transparent": {
+            "title": {
+                "1": "Diákok",
+                "2": "Tanulási programok",
+                "3": "Nyelvi képzések",
+                "4": "Képzési helyszínek",
+                "5": "Tanárok"
+            }
+        },
+        "article": {
+            "title": {
+                "1": "Hatékony előadói készségek angol nyelven",
+                "2": "Három ok, amiért az angol helyesírás zavaros",
+                "3": "Miért gondolkodsz azon, hogy jobb angolt tanulj?",
+                "4": "Online vagy személyes? Angoltanulás napjainkban"
+            },
+            "description": {
+                "1": "Ez a kurzus gyakorlati technikákat nyújt ahhoz, hogyan tartsunk lebilincselő és hatékony előadásokat angolul, oktatók és szakemberek számára.",
+                "2": "Fedezd fel az angol helyesírás szabályainak történetét és logikáját, és tanulj meg stratégiákat a gyakori hibák elkerülésére.",
+                "3": "Ismerd meg, milyen előnyei vannak az angoltudás fejlesztésének, és hogyan javíthatja tanulmányi, szakmai és személyes életedet.",
+                "4": "Hasonlítsd össze az online és a személyes angoltanulási lehetőségeket, és tudd meg, melyik módszer illik legjobban hozzád és a céljaidhoz."
+            },
+            "author": {
+                "1": "Steven Master",
+                "2": "Steven Master",
+                "3": "Steven Master",
+                "4": "Steven Master"
+            },
+            "hastags": {
+                "1": "#hírek",
+                "2": "#tanácsok"
+            }
+        },
+        "testimonial": {
+            "title": {
+                "1": "LENYŰGÖZŐ!!",
+                "2": "KIVÁLÓ MINŐSÉG!",
+                "3": "NAGYON EGYSZERŰ!"
+            },
+            "description": {
+                "1": "Ez a kurzus teljesen megváltoztatta a nyelvtanuláshoz való hozzáállásomat. A leckék világosak, érdekesek és gyakorlatiasak voltak. Végre magabiztosnak érzem magam angolul beszélve!",
+                "2": "Imádtam az interaktív feladatokat és az életszerű példákat. A tanár mindig támogató volt, és néhány hét alatt nagyszerű fejlődést értem el.",
+                "3": "Tervezőként értékeltem a letisztult vizuális megjelenést és a kurzus intuitív felépítését. A tartalom nemcsak hasznos volt, hanem gyönyörűen is volt bemutatva."
+            },
+            "position": {
+                "1": "Diák",
+                "2": "Tervező",
+                "3": "Diák"
+            }
+        },
+        "teacher": {
+            "position": {
+                "1": "Francia tanár",
+                "2": "Angol tanár",
+                "3": "Német tanár"
+            },
+            "description": {
+                "1": "Ennek a kurzusnak az oktatása a szenvedélyem. Minden egyes órába beleteszem a szívemet, hogy inspiráljam és támogassam a diákokat.",
+                "2": "Imádom látni, ahogy a diákjaim fejlődnek. Ez a kurzus lehetőséget ad arra, hogy megosszam, amiben igazán hiszek – az örömteli és célirányos tanulást.",
+                "3": "Minden alkalom lehetőség a kapcsolódásra és a megerősítésre. Nemcsak tudással, hanem valódi törődéssel és elkötelezettséggel tanítok."
+            }
+        },
+        "courseCard": {
+            "english": {
+                "title": {
+                    "1": "Angol gyerekeknek",
+                    "2": "Intenzív angol",
+                    "3": "Üzleti angol",
+                    "4": "Üzleti angol",
+                    "5": "Angol óra tiniknek"
+                },
+                "timeInterval": {
+                    "1": "20 hét",
+                    "2": "10 hét",
+                    "3": "12 hét",
+                    "4": "12 hét",
+                    "5": "6 hét"
+                },
+                "cost": {
+                    "1": "Ingyenes",
+                    "2": "150 USD",
+                    "3": "200 USD",
+                    "4": "250 USD",
+                    "5": "100 USD"
+                }
+            },
+            "german": {
+                "title": {
+                    "1": "Német üzleti kommunikáció",
+                    "2": "Haladó nyelvtan gyakorlatban",
+                    "3": "Intenzív beszédtréning",
+                    "4": "Projektmenedzsment németül",
+                    "5": "A1-A2 nyelvi alapozó"
+                },
+                "timeInterval": {
+                    "1": "16 hét",
+                    "2": "8 hét",
+                    "3": "6 hét",
+                    "4": "14 hét",
+                    "5": "20 hét"
+                },
+                "cost": {
+                    "1": "180 USD",
+                    "2": "120 USD",
+                    "3": "90 USD",
+                    "4": "300 USD",
+                    "5": "Ingyenes"
+                }
+            },
+            "french": {
+                "title": {
+                    "1": "Francia nyelv utazóknak",
+                    "2": "Francia nyelvtan tökéletesítése",
+                    "3": "Francia társalgási műhely",
+                    "4": "Francia üzleti megbeszélésekhez",
+                    "5": "Francia kezdőknek A1-A2"
+                },
+                "timeInterval": {
+                    "1": "10 hét",
+                    "2": "12 hét",
+                    "3": "8 hét",
+                    "4": "14 hét",
+                    "5": "20 hét"
+                },
+                "cost": {
+                    "1": "Ingyenes",
+                    "2": "130 USD",
+                    "3": "95 USD",
+                    "4": "300 USD",
+                    "5": "280 USD"
+                }
+            }
+        }
+    },
+    "next-course": {
+        "title": {
+            "1": "Következő kurzus",
+            "2": "Kezdés"
+        },
+        "become-a-member-today": "CSATLAKOZZ MA TAGKÉNT",
+        "language-training": "Nyelvi képzések: Hatékony",
+        "presentation": "Előadások",
+        "days": "NAP",
+        "hours": "ÓRA",
+        "mins": "PERC",
+        "secs": "MÁSODPERC"
+    },
+    "service": {
+        "option": {
+            "title": {
+                "1": "Árajánlat kérése",
+                "2": "Kérdezzen",
+                "3": "Csatlakozz most"
+            },
+            "description": {
+                "1": "Tudja meg az ideális kurzusának árát",
+                "2": "Nem tudja, mire van szüksége? Kérdezze oktatóinkat",
+                "3": "Regisztrálj most egy ingyenes 1 órás próbaidőszakra"
+            }
+        }
+    }
+}

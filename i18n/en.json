@@ -1,0 +1,280 @@
+{
+    "home": {
+        "choose-your-language": "Choose Your Language",
+        "language-school-in-number": "Language School In Number",
+        "llatest-news": "Latest News",
+        "language-school": "Language School",
+        "work-with-us": "Work with us. Learn with us. Improve with us. ",
+        "welcome-to-our": "Welcome to our language school, where communication begins with confidence. Whether you're aiming to improve your English, German, or French, we provide interactive and engaging courses tailored to your level. Our experienced teachers are here to support your journey every step of the way. Join us today and unlock new opportunities through language learning.",
+        "our-happy-students": "Our Happy Students",
+        "featured-instructors": "Featured Instructors"
+    },
+    "image-slider": {
+        "sign-up-more": "Sign up more",
+        "imageSliderItems": {
+            "caption": {
+                "1": "Teaching Turning\nToday’s Learners Into\nTomorrow’s Leaders",
+                "2": "Every student matters",
+                "3": "Putting Children First.\nPreparing Children For\nSuccess In Life",
+                "4": "Very student matters"
+            }
+        }
+    },
+    "newsletter": {
+        "subscribe-to-our-newsletter": "Subscribe to our Newsletter",
+        "subscribe": "Subscribe"
+    },
+    "form": {
+        "this-input-field-required": "This field is required",
+        "invalid-email-adress": "Invalid email address",
+        "success-msg": "Your message has been sent successfully",
+        "error": {
+            "required": "This field is required",
+            "invalid-phone": "Invalid phone number",
+            "invalid-email": "Invalid email address"
+        },
+        "placeholder": {
+            "name": "Name",
+            "phone": "Phone",
+            "email": "Email"
+        },
+        "send-message": "Send message",
+        "success-message": "Your message has been sent successfully"
+    },
+    "our-events": {
+        "events-calendar": "Events Calendar",
+        "latest-news": "Latest Events",
+        "upcoming-courses": "Upcoming Courses",
+        "no-upcoming-courses": "No upcoming courses",
+        "event": {
+            "date": {
+                "1": "MAR 6",
+                "2": "MAR 15",
+                "3": "MAR 27"
+            },
+            "title": {
+                "1": "English for Travel",
+                "2": "Speak with Confidence",
+                "3": "Everyday English"
+            },
+            "period": {
+                "1": "MAR 6, 2025",
+                "2": "MAR 15, 2025",
+                "3": "MAR 27, 2025"
+            }
+        },
+        "matchedEvent": {
+            "description": {
+                "1": "Introduction to agile principles and frameworks.",
+                "2": "Explore the basics of user experience design.",
+                "3": "See the latest features in action."
+            }
+        }
+    },
+    "footer": {
+        "about-school": "About School",
+        "about-us": "About Us",
+        "our-staff": "Our Staff",
+        "our-partners": "Our Partners",
+        "careers": "Careers",
+        "programmes": "Programmes",
+        "long-term-programmes": "Long-term Programmes",
+        "intensive-programmes": "Intensive Programmes",
+        "specialized-programme": "Specialized Programme",
+        "language-trainings": "Language Trainings",
+        "contact-info": "Contact Info",
+        "email": "exampleschool.com",
+        "phone": "Call Us: 1-800-123-1234",
+        "address": "Brooklyn, NY 10036, United States",
+        "bottom-bar": {
+            "copyright": "lali1998 © 2025 / All Rights Reserved",
+            "courses": "Courses",
+            "testimonials": "Testimonials",
+            "online-application": "Online Application"
+        },
+        "description": "Take your language skills to the next level! Our courses are practical and designed for real progress. Join us today!"
+    },
+    "find-course": {
+        "school-news-title": "School News",
+        "school-news-text": "We are pleased to announce that this semester brings a variety of new language courses and extracurricular programs for our students! You can now join conversation clubs, participate in language workshops, and even attend cultural evenings",
+        "opening-hours-title": "Opening hours",
+        "weekdays": "Monday - Friday",
+        "weekdays-hours": "8.00 - 17.00",
+        "saturday": "Saturday",
+        "saturday-hours": "9.30 - 17.30",
+        "sunday": "Sunday",
+        "sunday-hours": "9.30 - 15.00",
+        "find-your-course": "Find your course"
+    },
+    "common": {
+        "read-more": "Read more",
+        "learn-mode": "Learn more",
+        "language": {
+            "english": "English",
+            "german": "German",
+            "french": "French"
+        }
+    },
+    "card": {
+        "transparent": {
+            "title": {
+                "1": "Students",
+                "2": "Learning Prorammes",
+                "3": "Language Trainings",
+                "4": "Branches",
+                "5": "Teachers"
+            }
+        },
+        "article": {
+            "title": {
+                "1": "Effective Lecturing Skills in English",
+                "2": "Three Reasons Why English Spelling is Confusing",
+                "3": "Why Are You Thinking About Learning Better English?",
+                "4": "Online or Face-to-Face? Learning English Today"
+            },
+            "description": {
+                "1": "This course provides practical techniques for delivering engaging and effective lectures in English, tailored for educators and professionals.",
+                "2": "Explore the history and logic behind English spelling rules and learn strategies to navigate common spelling challenges.",
+                "3": "Discover the key benefits of improving your English skills and how it can positively impact your academic, professional, and personal life.",
+                "4": "Compare online and face-to-face English learning options, and find out which method suits your learning style and goals best."
+            },
+            "author": {
+                "1": "Steven Master",
+                "2": "Steven Master",
+                "3": "Steven Master",
+                "4": "Steven Master"
+            },
+            "hastags": {
+                "1": "#news",
+                "2": "#Advices"
+            }
+        },
+        "testimonial": {
+            "title": {
+                "1": "AWESOME!!",
+                "2": "HIGH QUALITY!",
+                "3": "SO SIMPLE!"
+            },
+            "position": {
+                "1": "Student",
+                "2": "Designer",
+                "3": "Student"
+            },
+            "description": {
+                "1": "This course completely changed the way I approach language learning. The lessons were clear, engaging, and practical. I finally feel confident speaking English!",
+                "2": "I loved the interactive activities and real-life examples. The teacher was always supportive, and I made great progress in just a few weeks.",
+                "3": "As a designer, I appreciated the clean visuals and intuitive structure of the course. The content was not only useful, but also beautifully presented."
+            }
+        },
+        "teacher": {
+            "position": {
+                "1": "French Teacher",
+                "2": "English Teacher",
+                "3": "German Teacher"
+            },
+            "description": {
+                "1": "Teaching this course is my passion. I put my heart into every lesson to inspire and support each student.",
+                "2": "I love seeing my students grow. This course lets me share what I truly believe in — learning with joy and purpose.",
+                "3": "Every session is a chance to connect and empower. I teach not just with knowledge, but with real care and dedication."
+            }
+        },
+        "courseCard": {
+            "english": {
+                "title": {
+                    "1": "English For Children",
+                    "2": "Intensive English",
+                    "3": "Business English",
+                    "4": "Business English",
+                    "5": "English class for teens"
+                },
+                "timeInterval": {
+                    "1": "20 week",
+                    "2": "10 week",
+                    "3": "12 week",
+                    "4": "12 week",
+                    "5": "6 week"
+                },
+                "cost": {
+                    "1": "Free",
+                    "2": "$150.00",
+                    "3": "$200.00",
+                    "4": "$250.00",
+                    "5": "$100.00"
+                }
+            },
+            "german": {
+                "title": {
+                    "1": "German Business Communication",
+                    "2": "Advanced Grammar in Practice",
+                    "3": "Intensive Speaking Training",
+                    "4": "Project Management in German",
+                    "5": "A1-A2 Language Foundation"
+                },
+                "timeInterval": {
+                    "1": "16 weeks",
+                    "2": "8 weeks",
+                    "3": "6 weeks",
+                    "4": "14 weeks",
+                    "5": "20 weeks"
+                },
+                "cost": {
+                    "1": "180 USD",
+                    "2": "120 USD",
+                    "3": "90 USD",
+                    "4": "300 USD",
+                    "5": "Free"
+                }
+            },
+            "french": {
+                "title": {
+                    "1": "French for Travelers",
+                    "2": "Perfecting French Grammar",
+                    "3": "French Conversation Lab",
+                    "4": "French for Business Meetings",
+                    "5": "Beginner French A1-A2"
+                },
+                "timeInterval": {
+                    "1": "10 weeks",
+                    "2": "12 weeks",
+                    "3": "8 weeks",
+                    "4": "14 weeks",
+                    "5": "20 weeks"
+                },
+                "cost": {
+                    "1": "Free",
+                    "2": "$130.00",
+                    "3": "$95.00",
+                    "4": "$300.00",
+                    "5": "$280.00"
+                }
+            }
+        }
+    },
+    "next-course": {
+        "title": {
+            "1": "Next Course",
+            "2": "Starting"
+        },
+        "become-a-member-today": "BECOME A MEMBER TODAY",
+        "language-training": "Language Trainings: Effective",
+        "presentation": "Presentations",
+        "days": "DAYS",
+        "hours": "HOURS",
+        "mins": "MINS",
+        "secs": "SECS"
+    },
+    "service": {
+        "option": {
+            "title": {
+                "1": "Get Quote",
+                "2": "Ask a Question",
+                "3": "Join Today"
+            },
+            "description": {
+                "1": "Find the price of your ideal course",
+                "2": "Not sure what you need? Ask our Advisors",
+                "3": "Sign Up Now for a Free 1-Hour Trial"
+            }
+        }
+    }
+}
