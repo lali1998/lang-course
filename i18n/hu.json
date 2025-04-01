@@ -10,7 +10,6 @@
         "featured-instructors": "Kiemelt oktatóink"
     },
     "image-slider": {
-        "sign-up-more": "Regisztrálj most!",
         "imageSliderItems": {
             "caption": {
                 "1": "Tanítás – A mai tanulókból\nholnap vezetőket formálunk",
@@ -48,26 +47,38 @@
         "no-upcoming-courses": "Nincs közelgő tanfolyam",
         "event": {
             "date": {
-                "1": "Március 6",
-                "2": "Március 15",
-                "3": "Március 27"
+                "1": "Április 1",
+                "2": "Április 2",
+                "3": "Április 3",
+                "4": "Április 15",
+                "5": "Április 22",
+                "6": "Április 28"
             },
             "title": {
                 "1": "Angol utazáshoz",
                 "2": "Beszélj magabiztosan",
-                "3": "Mindennapi angol"
+                "3": "Mindennapi angol",
+                "4": "Prezentációs készségek",
+                "5": "Tárgyalási angol",
+                "6": "Állásinterjú angolul"
             },
             "period": {
-                "1": "2025. március 6.",
-                "2": "2025. március 15.",
-                "3": "2025. március 27."
+                "1": "2025. Április 1.",
+                "2": "2025. Április 2.",
+                "3": "2025. Április 3.",
+                "4": "2025. Április 15.",
+                "5": "2025. Április 22.",
+                "6": "2025. Április 28."
             }
         },
         "matchedEvent": {
             "description": {
                 "1": "Bevezetés az agilis alapelvekbe és keretrendszerekbe.",
                 "2": "Fedezd fel a felhasználói élménytervezés alapjait.",
-                "3": "Tekintsd meg az új funkciókat működés közben."
+                "3": "Tekintsd meg az új funkciókat működés közben.",
+                "4": "Tanuld meg, hogyan építs fel hatékony prezentációt angol nyelven.",
+                "5": "Gyakorold a hatékony üzleti kommunikációt tárgyalási helyzetekben.",
+                "6": "Készülj fel egy angol nyelvű állásinterjúra valódi példákon keresztül."
             }
         }
     },
@@ -184,22 +195,19 @@
                     "1": "Angol gyerekeknek",
                     "2": "Intenzív angol",
                     "3": "Üzleti angol",
-                    "4": "Üzleti angol",
-                    "5": "Angol óra tiniknek"
+                    "4": "Üzleti angol"
                 },
                 "timeInterval": {
                     "1": "20 hét",
                     "2": "10 hét",
                     "3": "12 hét",
-                    "4": "12 hét",
-                    "5": "6 hét"
+                    "4": "12 hét"
                 },
                 "cost": {
                     "1": "Ingyenes",
                     "2": "150 USD",
                     "3": "200 USD",
-                    "4": "250 USD",
-                    "5": "100 USD"
+                    "4": "250 USD"
                 }
             },
             "german": {
@@ -207,22 +215,19 @@
                     "1": "Német üzleti kommunikáció",
                     "2": "Haladó nyelvtan gyakorlatban",
                     "3": "Intenzív beszédtréning",
-                    "4": "Projektmenedzsment németül",
-                    "5": "A1-A2 nyelvi alapozó"
+                    "4": "Projektmenedzsment németül"
                 },
                 "timeInterval": {
                     "1": "16 hét",
                     "2": "8 hét",
                     "3": "6 hét",
-                    "4": "14 hét",
-                    "5": "20 hét"
+                    "4": "14 hét"
                 },
                 "cost": {
                     "1": "180 USD",
                     "2": "120 USD",
                     "3": "90 USD",
-                    "4": "300 USD",
-                    "5": "Ingyenes"
+                    "4": "300 USD"
                 }
             },
             "french": {
@@ -230,22 +235,19 @@
                     "1": "Francia nyelv utazóknak",
                     "2": "Francia nyelvtan tökéletesítése",
                     "3": "Francia társalgási műhely",
-                    "4": "Francia üzleti megbeszélésekhez",
-                    "5": "Francia kezdőknek A1-A2"
+                    "4": "Francia üzleti megbeszélésekhez"
                 },
                 "timeInterval": {
                     "1": "10 hét",
                     "2": "12 hét",
                     "3": "8 hét",
-                    "4": "14 hét",
-                    "5": "20 hét"
+                    "4": "14 hét"
                 },
                 "cost": {
                     "1": "Ingyenes",
                     "2": "130 USD",
                     "3": "95 USD",
-                    "4": "300 USD",
-                    "5": "280 USD"
+                    "4": "300 USD"
                 }
             }
         }

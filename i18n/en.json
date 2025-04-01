@@ -10,7 +10,6 @@
         "featured-instructors": "Featured Instructors"
     },
     "image-slider": {
-        "sign-up-more": "Sign up more",
         "imageSliderItems": {
             "caption": {
                 "1": "Teaching Turning\nToday’s Learners Into\nTomorrow’s Leaders",
@@ -48,26 +47,38 @@
         "no-upcoming-courses": "No upcoming courses",
         "event": {
             "date": {
-                "1": "MAR 6",
-                "2": "MAR 15",
-                "3": "MAR 27"
+                "1": "April 1",
+                "2": "April 2",
+                "3": "April 3",
+                "4": "April 15",
+                "5": "April 22",
+                "6": "April 28"
             },
             "title": {
                 "1": "English for Travel",
                 "2": "Speak with Confidence",
-                "3": "Everyday English"
+                "3": "Everyday English",
+                "4": "Presentation Skills",
+                "5": "Business Negotiation English",
+                "6": "Job Interview in English"
             },
             "period": {
-                "1": "MAR 6, 2025",
-                "2": "MAR 15, 2025",
-                "3": "MAR 27, 2025"
+                "1": "April 1, 2025",
+                "2": "April 2, 2025",
+                "3": "April 3, 2025",
+                "4": "April 15, 2025",
+                "5": "April 22, 2025",
+                "6": "April 28, 2025"
             }
         },
         "matchedEvent": {
             "description": {
                 "1": "Introduction to agile principles and frameworks.",
                 "2": "Explore the basics of user experience design.",
-                "3": "See the latest features in action."
+                "3": "See new features in action.",
+                "4": "Learn how to build effective presentations in English.",
+                "5": "Practice effective business communication in negotiation scenarios.",
+                "6": "Prepare for English job interviews with real-life examples."
             }
         }
     },
@@ -184,22 +195,19 @@
                     "1": "English For Children",
                     "2": "Intensive English",
                     "3": "Business English",
-                    "4": "Business English",
-                    "5": "English class for teens"
+                    "4": "Business English"
                 },
                 "timeInterval": {
                     "1": "20 week",
                     "2": "10 week",
                     "3": "12 week",
-                    "4": "12 week",
-                    "5": "6 week"
+                    "4": "12 week"
                 },
                 "cost": {
                     "1": "Free",
                     "2": "$150.00",
                     "3": "$200.00",
-                    "4": "$250.00",
-                    "5": "$100.00"
+                    "4": "$250.00"
                 }
             },
             "german": {
@@ -207,22 +215,19 @@
                     "1": "German Business Communication",
                     "2": "Advanced Grammar in Practice",
                     "3": "Intensive Speaking Training",
-                    "4": "Project Management in German",
-                    "5": "A1-A2 Language Foundation"
+                    "4": "Project Management in German"
                 },
                 "timeInterval": {
                     "1": "16 weeks",
                     "2": "8 weeks",
                     "3": "6 weeks",
-                    "4": "14 weeks",
-                    "5": "20 weeks"
+                    "4": "14 weeks"
                 },
                 "cost": {
                     "1": "180 USD",
                     "2": "120 USD",
                     "3": "90 USD",
-                    "4": "300 USD",
-                    "5": "Free"
+                    "4": "300 USD"
                 }
             },
             "french": {
@@ -230,22 +235,19 @@
                     "1": "French for Travelers",
                     "2": "Perfecting French Grammar",
                     "3": "French Conversation Lab",
-                    "4": "French for Business Meetings",
-                    "5": "Beginner French A1-A2"
+                    "4": "French for Business Meetings"
                 },
                 "timeInterval": {
                     "1": "10 weeks",
                     "2": "12 weeks",
                     "3": "8 weeks",
-                    "4": "14 weeks",
-                    "5": "20 weeks"
+                    "4": "14 weeks"
                 },
                 "cost": {
                     "1": "Free",
                     "2": "$130.00",
                     "3": "$95.00",
-                    "4": "$300.00",
-                    "5": "$280.00"
+                    "4": "$300.00"
                 }
             }
         }
